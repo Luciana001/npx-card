@@ -1,0 +1,34 @@
+{
+  "name": "lucia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "lucia": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luciana001/npx-card.git"
+  },
+  "keywords": [
+    "card",
+    "npm",
+    "npm card",
+    "npx",
+    "npx card",
+    "business card"
+  ],
+  "author": "luciana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Luciana001/npx-card/issues"
+  },
+  "homepage": "https://github.com/Luciana001/npx-card#readme",
+  "dependencies": {
+    "boxen": "^5.0.1",
+    "terminal-link": "^3.0.0"
+  }
+}
