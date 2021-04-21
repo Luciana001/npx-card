@@ -15,7 +15,7 @@ console.log(
             '-----------------',
             chalk.cyan.bold('Discord:')+ chalk.magenta(' #9549'),
             EMPTYLINE,
-            chalk.cyan.bold('Card:')+ chalk.white.bold( '@luciana001/card')
+            chalk.cyan.bold('Card:')+ chalk.white.bold( 'npx @luciana001/card')
         ].join(NewLine),
         {
             align:"center",

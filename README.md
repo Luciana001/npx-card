@@ -2,6 +2,6 @@
 
 Utilisation npm and npx.
 
-My Card: @luciana001/card
+My Card: npx @luciana001/card
 
 Project very Fun!
